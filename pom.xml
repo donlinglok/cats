@@ -16,7 +16,7 @@
         <rgxgen.version>1.4</rgxgen.version>
         <wiremock-jre8.version>2.34.0</wiremock-jre8.version>
         <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
-        <guava.version>31.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <openapi-generator.version>6.2.0</openapi-generator.version>
         <sonar.coverage.exclusions>
             **/*TestCaseExporter*.*, **/*CatsTestCase*.*, **/*CatsTestReport*.*, **/*Aspect*.*, **/*CatsMain*.*,
