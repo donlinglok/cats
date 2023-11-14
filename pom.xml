@@ -42,7 +42,7 @@
         <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
         <maven-install-plugin.version>3.0.0-M1</maven-install-plugin.version>
         <spring-integration-core.version>5.5.14</spring-integration-core.version>
-        <json.version>20220924</json.version>
+        <json.version>20231013</json.version>
         <error-prone.version>2.15.0</error-prone.version>
         <archunit-junit5.version>1.0.0</archunit-junit5.version>
     </properties>
